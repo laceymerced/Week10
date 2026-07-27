@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lacey Merced\\OneDrive\\CS-120\\Week10\\src\\DungeonGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF69785-A5C5-46C2-A65F-30920EEEF847}|DungeonGame.vbproj|c:\\users\\lacey merced\\onedrive\\cs-120\\week10\\src\\dungeongame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9BF69785-A5C5-46C2-A65F-30920EEEF847}|DungeonGame.vbproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF69785-A5C5-46C2-A65F-30920EEEF847}|DungeonGame.vbproj|c:\\users\\lacey merced\\onedrive\\cs-120\\week10\\src\\dungeongame\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9BF69785-A5C5-46C2-A65F-30920EEEF847}|DungeonGame.vbproj|solutionrelative:mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lacey Merced\\OneDrive\\CS-120\\Week10\\src\\DungeonGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lacey Merced\\OneDrive\\CS-120\\Week10\\src\\DungeonGame\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-27T23:48:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Lacey Merced\\OneDrive\\CS-120\\Week10\\src\\DungeonGame\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "MainWindow.xaml.vb",
+              "ToolTip": "C:\\Users\\Lacey Merced\\OneDrive\\CS-120\\Week10\\src\\DungeonGame\\MainWindow.xaml.vb",
+              "RelativeToolTip": "MainWindow.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-27T23:48:14.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
